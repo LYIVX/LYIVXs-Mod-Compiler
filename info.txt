@@ -1,0 +1,6 @@
+LYIVX's Mod Compiler
+ls_compiler
+1.1.0
+LYIVX, Tarantel
+A Mcreator Plugin That Adds A Mod Compiler, Originaly Made By Tarantel
+Made with MCreator plugin builder by NerdyPuzzle
